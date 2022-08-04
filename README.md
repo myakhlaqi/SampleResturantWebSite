@@ -1,5 +1,5 @@
 # Description:
-This is a simple Node.js web site which I created as a part of my Coursera courses in Full stack development.
+This is a simple Node.js web site which I created as a part of my Full stack development course in Coursera.
 
 # Features:
 * Responsive Design (Adopting Bootstrap and JQuery) + SCSS
