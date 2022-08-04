@@ -13,7 +13,7 @@ This is a simple Node.js web site which I created as a part of my Full stack dev
 # Quick start:
 1- clone the repository into your local system by this command:
 ```
-git clone url
+git clone https://github.com/myakhlaqi/SampleResturantWebSite.git
 ```
 2-Go to the main directory of the project where the package.json file exists.
 3-Run this command to install Nodejs modules and packages
