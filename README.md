@@ -6,9 +6,15 @@ This is a simple web site which I created as a part of my Full stack development
 * Backend (React, Node.js)
 
 # Frontend elements:
-* carousel (slide show)
-* modal widnows 
-* font awesome icons
+* Carousel (slide show)
+* Navigation and Navigation Bar
+* Cards
+* Modal widnows 
+* Font awesome icons
+* Badges
+* Bills, Tabs, Tabbed Navitation
+* Collapse and Accordion
+* Alert, Popover
 
 # Quick start:
 1- clone the repository into your local system by this command:
