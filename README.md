@@ -1,17 +1,17 @@
 # SampleResturantWebSite
-*Description:
+#Description:
 This is a simple Node.js web site which I created as a part of my Coursera courses in Full stack development.
 
-*Features:
+#Features:
 * Responsive Design (Adopting Bootstrap and JQuery) + SCSS
 * Backend (React, Node.js)
 
-*Frontend elements:
+#Frontend elements:
 * carousel (slide show)
 * modal widnows 
 * font awesome icons
 
-*How to run:
+#Quick start:
 1- clone the repository into your local system by this command:
    '''git clone url'''
 2-Go to the main directory of the project where the package.json file exists.
