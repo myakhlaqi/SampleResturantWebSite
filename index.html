@@ -231,6 +231,18 @@
                     <a class="carousel-control-next" href="#mycarousel" role="button" data-slide="next">
                         <span class="carousel-control-next-icon"></span>
                     </a>
+                    <!-- <div class="btn-group" id="carouselButton">
+                        <button class="btn btn-danger btn-sm" id="carousel-pause">
+                            <span class="fa fa-pause"></span>
+                        </button>
+                        <button class="btn btn-danger btn-sm" id="carousel-play">
+                            <span class="fa fa-play"></span>
+                        </button>
+                    </div> -->
+                    <button class="btn btn-danger btn-sm" id="carouselButton">
+                        <span id="carousel-button-icon" class="fa fa-pause"></span>
+                    </button>
+                    
                 </div>
 
                 <div class="row row-content align-items-center">
@@ -351,19 +363,7 @@
     <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
     <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            // $('[data-toggle="tooltip"]').tooltip();
-            $('#linkLogin').click(function(){
-                $('#loginModal').modal('show');
-            })
-            $('#btnReserveTable').click(function(){
-                $('#reserveTableModal').modal('show');
-                //$('#loginModal').modal('show');
-            })
-
-        })
-    </script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
