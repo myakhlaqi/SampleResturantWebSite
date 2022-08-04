@@ -20,7 +20,7 @@ This is a simple web site which I created as a part of my Full stack development
 There are two ways to use this project:
 ## a- Run docker image
 
-## b- Clode project source code
+## b- Clon project's source code
 1- clone the repository into your local system by this command:
 ```
 git clone https://github.com/myakhlaqi/SampleResturantWebSite.git
